@@ -1,0 +1,3 @@
+bodyache.txt Name a part of your body that you might say has an "ache"
+fruit.txt Name a fruit you might eat in the morning
+house.txt Other than wood, name a material that might be used when building a house

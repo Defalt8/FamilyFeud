@@ -1,0 +1,3 @@
+candy_bar.txt Name a common candy bar ingredient
+state.txt Name a state with a lot of mountains
+weekly.txt Tell me something many people do or go to just once a week
